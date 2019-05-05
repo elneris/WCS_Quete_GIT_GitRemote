@@ -1,5 +1,9 @@
-#Git Remotes
+# Git Remotes
 
-Luke, I am your father !
+## Quête réalisée lors de mon cursus à la Wild Code School Févier 2019
 
-Nooooooooooooooooooooooooooooooo !
+### Critères de validation
+
+    La branche master doit contenir le fichier wild.php
+
+
